@@ -1,0 +1,92 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      
+      header {
+        background-color: rgb(197, 6, 38);
+        padding: 10px;
+      }
+      
+      nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+      }
+      
+      nav ul li {
+        margin: 0 10px;
+      }
+      
+      nav ul li a {
+        color: #fff;
+        text-decoration: none;
+      }
+      
+      main {
+        padding: 20px;
+        text-align: center;
+      }
+      
+      h1 {
+        font-size: 36px;
+      }
+      
+      .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: rgb(197, 6, 38);
+        color: #fff;
+        text-decoration: none;
+        margin-top: 20px;
+        border-radius: 5px;
+      }
+      #contact{
+        padding-bottom: 23%;
+      }
+      #about{
+        padding-bottom: 28%;
+      }
+      #pricing{
+        padding-bottom: 16%;
+      }
+      
+      section {
+        margin-bottom: 50px;
+      }
+      
+      .pricing-plans {
+        display: flex;
+        justify-content: center;
+      }
+      
+      .plan {
+        padding: 20px;
+        border: 1px solidrgb(197, 6, 38);
+        border-radius: 5px;
+        margin: 0 10px;
+      }
+      
+      footer {
+        padding-top: 90%;
+        background-color: rgb(197, 6, 38);
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+      }
+      
+    table{
+      border: 2px solid black;
+    }
+
+    tr{
+      border: 2px solid black;
+    }
+    td{
+      border: 2px solid black;
+      padding: 10px;
+    }
